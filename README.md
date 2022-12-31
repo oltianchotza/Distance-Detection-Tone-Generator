@@ -9,4 +9,4 @@ Once the hardware is set up, upload the code to the Arduino board and open the s
 Please note that the distance measurements may not be completely accurate and may vary based on the environment and other factors. This project is intended for educational and experimental purposes only.
 
 ## Circuit Design
-![Circuit Design]()
+![Circuit Design](https://i.ibb.co/kBLHJDL/7-C7-B20-B0-5-EF6-443-E-8-CD3-DAC2-A7828566.jpg)
